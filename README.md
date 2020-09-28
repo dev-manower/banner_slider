@@ -1,3 +1,3 @@
 # banner_slider
 
-https://dev-mhsohan.github.io/banner_slider/
+https://dev-manower.github.io/banner_slider/
